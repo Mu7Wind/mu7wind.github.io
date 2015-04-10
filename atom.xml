@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[沐晨风]]></title>
+  <link href="http://muchanwind.github.io/atom.xml" rel="self"/>
+  <link href="http://muchanwind.github.io/"/>
+  <updated>2015-04-10T15:03:06+08:00</updated>
+  <id>http://muchanwind.github.io/</id>
+  <author>
+    <name><![CDATA[沐晨风]]></name>
+    <email><![CDATA[mu7wind@icloud.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
